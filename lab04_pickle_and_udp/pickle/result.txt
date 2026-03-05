@@ -1,0 +1,2 @@
+=== pickle client ===
+echo {'name': 'alice', 'n': 42}

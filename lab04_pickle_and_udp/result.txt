@@ -1,0 +1,5 @@
+=== pickle client ===
+echo {'name': 'alice', 'n': 42}
+
+=== udp client ===
+echo hello udp

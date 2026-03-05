@@ -1,0 +1,8 @@
+=== server terminal ===
+Bank server on port 9092
+client ('127.0.0.1', 54321)
+
+=== client terminal ===
+Action (balance / deposit / withdraw): deposit
+Amount: 100
+Balance: 100
