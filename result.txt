@@ -1,9 +1,0 @@
-=== server terminal ===
-server is listening on 9090
-new client ('127.0.0.1', 54321)
-received hello
-client left
-
-=== client terminal ===
-message: hello
-echo hello
